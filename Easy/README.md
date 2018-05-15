@@ -1,1 +1,1 @@
-This part is the easy part algorithm.
+This part is the easy algorithm.
