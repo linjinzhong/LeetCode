@@ -1,2 +1,2 @@
 # LeetCode
-The implementation code of leetcode
+The implemented code of leetcode
